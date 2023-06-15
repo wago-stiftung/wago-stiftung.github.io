@@ -1,0 +1,80 @@
+# Authors
+
+Andre Bell:
+  name        : "André Alexander Bell"
+  bio         : "Education builds the future, one skill at a time..."
+  avatar      : "/assets/images/bio-photo.jpg"
+  phone       : "+49 571 887 - 49596"
+  fax         : "+49 571 887 - 849596"
+  email       : "andre.bell@wago.com"
+  bio         : >
+    Vocational Training Officer<br>
+    Vocational Training International<br>
+    <br>
+    Education builds the future, one skill at a time...
+
+  address     : >
+    WAGO GmbH & Co. KG<br/>
+    Hansastraße 27<br>
+
+    32423 Minden
+
+Lisa Lüder:
+  name        : "Lisa Lüder"
+  avatar      : "/assets/images/bio-photo.jpg"
+  # phone       : "+49 571 887 - 71336"
+  # fax         : "+49 571 887 - 871336"
+  email       : "lisa.lueder@wago.com"
+  bio         : >
+    Vocational Training Officer<br>
+    Vocational Training International
+
+  # address     : >
+  #   WAGO GmbH & Co. KG<br/>
+  #   Hansastraße 27<br>
+
+  #   32423 Minden
+
+Maik Rehburg:
+  name        : "Maik Rehburg"
+  avatar      : "/assets/images/bio-photo.jpg"
+  # phone       : "+49 571 887 - 49118"
+  # fax         : "+49 571 887 - 849118"
+  email       : "maik.rehburg@wago.com"
+  bio         : >
+    Vocational Training Officer<br>
+    Vocational Training International
+
+  # address     : >
+  #   WAGO GmbH & Co. KG<br/>
+  #   Hansastraße 27<br>
+
+  #   32423 Minden
+
+Tina Meyer:
+  name        : "Tina Meyer"
+  avatar      : "/assets/images/bio-photo.jpg"
+  phone       : "+49 571 887 - 77689"
+  fax         : "+49 571 887 - 877689"
+  email       : "tina.meyer@wago.com"
+  bio         : >
+    Corporate Communications Manager<br>
+    Regional- und Wirtschaftspresse
+
+  address     : >
+    WAGO GmbH & Co. KG<br/>
+    Hansastraße 27<br>
+
+    32423 Minden
+
+# Cornelius Fiddlebone:
+#   name        : "Cornelius Fiddlebone"
+#   bio         : "I ordered what?"
+#   avatar      : "/assets/images/bio-photo.jpg"
+#   links:
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope-square"
+#       url: "mailto:cornelius@thewhip.com"
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com/rhymeswithsackit"
