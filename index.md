@@ -15,7 +15,7 @@ row1:
     alt: "WAGO Stiftung"
     title: "DIE WAGO STIFTUNG"
     excerpt: "Die WAGO Stiftung möchte Ideen und Potenziale finden und fördern. In Makeathons und Kolloquien vernetzen sich Nachwuchstalente und Experten in der modernen Automatisierungstechnik – um die Fachkräfte und Innovationen von morgen zu sichern und Zukunft zu gestalten."
-    url: "/"
+    url: https://www.wago-stiftung.de/ueber-uns
     btn_label: "Mehr erfahren"
     btn_class: "btn--primary"
 row2:
@@ -23,14 +23,14 @@ row2:
     alt: "WAGO Stiftung - Makeathon"
     title: "Makeathon"
     excerpt: "Engagiert und technikinteressiert? Dann beim Makeathon der WAGO Stiftung kreativ werden – und gemeinsam die Zukunft der Automatisierung gestalten."
-    url: "makeathon"
+    url: https://wago-stiftung.github.io/makeathon2023/
     btn_label: "Mehr erfahren"
     btn_class: "btn--secondary"
   - image_path: /assets/images/Teaser-Kolloquium_2000x1125.jpg
     alt: "Kolloquium"
     title: "Kolloquium"
     excerpt: "Hier vernetzen sich Experten und Nachwuchstalente, um über die Zukunftstrends im Bereich Digitalisierung und Automatisierung zu sprechen und gemeinsam neue Ideen zu entwickeln."
-    url: "kolloquium"
+    url: https://www.wago-stiftung.de/kolloquium/
     btn_label: "Mehr erfahren"
     btn_class: "btn--secondary"
 row3:
@@ -38,14 +38,21 @@ row3:
     alt: "Kontakt"
     title: "Fragen? Wir helfen gern!"
     excerpt: "Hast Du Fragen zur Stiftung generell oder zu einem unserer Formate? Dann melde Dich bei uns und wir beantworten diese gern."
-    url: "kontakt"
+    url: https://www.wago-stiftung.de/kontakt/
     btn_label: "Mehr erfahren"
+    btn_class: "btn--secondary"
+row_makeathon:
+  - title: "Hier geht es zum Makeathon 2023"
+    url: https://wago-stiftung.github.io/makeathon2023/
+    btn_label: "👉 Makeathon 2023"
     btn_class: "btn--secondary"
 ---
 
 <!-- <p>This text should appear above the recent posts.</p> -->
 
 {% include feature_row id="row1" type="left" %}
+
+{% include feature_row id="row_makeathon" highlight="true" %}
 
 {% include feature_row id="row2" %}
 

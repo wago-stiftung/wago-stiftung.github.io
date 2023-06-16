@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Makeathon"
-    url: /makeathon/
+    url: https://wago-stiftung.github.io/makeathon2023/
   - title: "Kolloquium"
-    url: /year-archive/
+    url: https://www.wago-stiftung.de/kolloquium/
   - title: "Über uns"
-    url: /collection-archive/
+    url: https://www.wago-stiftung.de/ueber-uns/
   - title: "Kontakt"
-    url: /sitemap/
+    url: https://www.wago-stiftung.de/kontakt/
   # - title: "Extra Menu Item 1"
   #   url: /
   # - title: "Extra Menu Item 2"

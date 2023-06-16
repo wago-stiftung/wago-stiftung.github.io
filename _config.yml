@@ -124,15 +124,15 @@ footer:
   links:
     - label: "Impressum"
       # icon: "fab fa-fw fa-twitter-square"
-      url: "/rechtliche-hinweise/impressum/"
+      url: https://www.wago-stiftung.de/rechtliche-hinweise/impressum/
     - label: "Datenschutz"
       # icon: "fab fa-fw fa-github"
-      url: "/rechtliche-hinweise/datenschutz/"
+      url: https://www.wago-stiftung.de/rechtliche-hinweise/datenschutz/
     - label: "Nutzungsbedingungen"
       # icon: "fab fa-fw fa-instagram"
-      url: "/rechtliche-hinweise/allgemeine-nutzungsbedingungen/"
+      url: https://www.wago-stiftung.de/rechtliche-hinweise/allgemeine-nutzungsbedingungen/
     - label: "Rechtliche Hinweise"
-      url: "/rechtliche-hinweise/"
+      url: https://www.wago-stiftung.de/rechtliche-hinweise/
 
 
 # Reading Files
